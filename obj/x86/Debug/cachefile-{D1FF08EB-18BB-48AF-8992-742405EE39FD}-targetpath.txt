@@ -1,0 +1,9 @@
+Content\Textures\PlatformTiles.xnb
+Content\Textures\MarioTiles.xnb
+Content\Textures\twillight.xnb
+Content\Textures\tiles.xnb
+Content\Fonts\myFont.xnb
+Content\Textures\PlatformTiles.png
+Content\Textures\MarioTiles.png
+Content\Textures\twillight.png
+Content\Textures\tiles.png
